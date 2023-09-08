@@ -1,7 +1,7 @@
 # covid19_meta.py
 from Bio import SeqIO
 import matplotlib.pyplot as plt
-
+#####
 nucl = ['A', 'T', 'C', 'G']
 di_nucl_dict = {}
 
